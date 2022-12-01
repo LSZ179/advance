@@ -1,5 +1,5 @@
 # advance
-<<<<<<< HEAD
+
 awdkjn
 slzs
  lsz branch 1
